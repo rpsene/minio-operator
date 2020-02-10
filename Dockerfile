@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM ppc64le/alpine:3.10
 
 LABEL maintainer="MinIO Inc <dev@min.io>"
 
